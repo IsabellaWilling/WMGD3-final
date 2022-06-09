@@ -321,6 +321,39 @@ h1, h2, h3, h4, h5, h6 {
 .hero {
   background: #4C0564;
   height: 88px;
-  padding: 20px;
+  padding: 30px;
   justify-content: center;
   color: white; }
+
+.listings {
+  background: #4C0564;
+  height: 88px;
+  padding: 30px;
+  justify-content: center;
+  color: white; }
+
+.events {
+  background: #4C0564;
+  height: 88px;
+  padding: 30px;
+  justify-content: center;
+  color: white; }
+
+.calendar {
+  background: #4C0564;
+  height: 88px;
+  padding: 30px;
+  justify-content: center;
+  color: white; }
+
+.mission {
+  background: #4C0564;
+  height: 88px;
+  padding: 30px;
+  justify-content: center;
+  color: white; }
+
+.footer {
+  background-color: #83479B;
+  color: #FFFFFF;
+  padding: 2px 400px; }
